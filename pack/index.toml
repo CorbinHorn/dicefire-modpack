@@ -229,6 +229,11 @@ hash = "748f98aed76975838bd79cb4f5d06eb68aad156394239de5fa70302a02448a5b"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
