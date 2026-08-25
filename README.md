@@ -7,4 +7,5 @@ Das Modpack für den Minecraft Server vom Dicefire Spieletreff Gera e.V.
 3) packwiz installieren https://github.com/packwiz/packwiz/actions/runs/28793198419/artifacts/8109648450 und PATH setzen
 4) Prism Launcher installieren und Minecraft Account hinterlegen
 5) Git Projekt klonen
+6) Packwiz-Installer-Bootstrap installieren
 
