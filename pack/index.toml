@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "18dee4357a741a909904d20d5a9952fba48ab2713a9e18c764d1fbb440216b12"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
@@ -8,4 +13,14 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "cc9ff8f836b242932bc70428c785c1b24838bf4a008f1614aa8c2fcbd3fd86d4"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true

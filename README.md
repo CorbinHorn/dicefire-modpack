@@ -8,4 +8,5 @@ Das Modpack für den Minecraft Server vom Dicefire Spieletreff Gera e.V.
 4) Prism Launcher installieren und Minecraft Account hinterlegen
 5) Git Projekt klonen
 6) Packwiz-Installer-Bootstrap installieren
+7) In Prism -> Instanz Bearbeiten -> Settings -> "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://corbinhorn.github.io/dicefire-modpack/pack.toml
 
