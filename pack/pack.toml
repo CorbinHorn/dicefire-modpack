@@ -1,0 +1,13 @@
+name = "Dicefire Modpack"
+author = "Dicefire Spieletreff Gera e.V."
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2fca222a354bf2f059cba9aee4710758a0bda0524db08ab7910064c2ab32f1ea"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
