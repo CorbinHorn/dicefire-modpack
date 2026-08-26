@@ -1,0 +1,13 @@
+name = "RegionGuard"
+filename = "regionguard-0.2.0-mc1.21.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae1a68e9d5cc20191afa2ae2f77ed421ee54bdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8571847
+project-id = 1480807

@@ -1,0 +1,13 @@
+name = "Luckyblock"
+filename = "luckyblock-1,0-datapack-1.21.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "683013363ab8bd2e9d8226d8a8975c0fcde436e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5725466
+project-id = 1071520

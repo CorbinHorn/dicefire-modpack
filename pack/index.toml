@@ -69,6 +69,11 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "luckyblock.pw.toml"
+hash = "7daf3dc228e73df1d898d593060fc27635aba21cfbf93144e8ba67a9ec777aee"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -359,6 +364,11 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
+file = "mods/regionguard.pw.toml"
+hash = "0c9d7b4bd172efbd4fdd48c94fef780b10dec24510f66c4377469f1f29de2bd6"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
 hash = "f56e0c23ba34fcbb889c396b99f31a5f33365e00202b7728846e449825d58e03"
 metafile = true
@@ -381,4 +391,9 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "1e4dd7bcdaa5fa5c66ebb3d10ed34992c8009294b048eaaa310377f10e1a733d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
