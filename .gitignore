@@ -23,3 +23,19 @@ screenshots/
 # Secrets
 .env
 *.secret
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Minecraft development runtime
+**/run/
+**/runs/
+
+# Logs
+*.log
